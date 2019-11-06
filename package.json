@@ -1,0 +1,20 @@
+{
+  "name": "get-cli-args",
+  "description": "A tool for working with Node Commandline arguments",
+  "author": {
+    "name": "Evan Wills",
+    "email": "evan.wills@acu.edu.au",
+    "url": "https://github.com/evanwills"
+  },
+  "bugs": {
+    "url": "https://github.com/evanwills/get-cli-args/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanwills/get-cli-args.git"
+  },
+  "version": "0.0.1"
+}
